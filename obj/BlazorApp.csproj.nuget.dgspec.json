@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tmidboeus.ibm.com/BlazorApp/BlazorApp.csproj": {}
+  },
+  "projects": {
+    "/Users/tmidboeus.ibm.com/BlazorApp/BlazorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tmidboeus.ibm.com/BlazorApp/BlazorApp.csproj",
+        "projectName": "BlazorApp",
+        "projectPath": "/Users/tmidboeus.ibm.com/BlazorApp/BlazorApp.csproj",
+        "packagesPath": "/Users/tmidboeus.ibm.com/.nuget/packages/",
+        "outputPath": "/Users/tmidboeus.ibm.com/BlazorApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tmidboeus.ibm.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
